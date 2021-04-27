@@ -123,6 +123,23 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
         <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_featureImp.jpg?raw=true" alt="VotingEnsemble Feature Importance Explanation"/>
   </p>
   
+  So after reach in a good model its necessay to deploy the model to continue the project.
+  
+  ***Deploying the model***
+  
+  The model was deployed with "Azure Container Instances" (ACI) and "Authentication" enabled, so cheking the endpoints we can see the model deployed with status `Active` (Fig 8). 
+  
+  <p align="center">
+        <i><b>Fig 8</b> -  VotingEnsemble Feature Importance Explanation </i>
+  </p>
+  
+  <p align="center">
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_deploy.jpg?raw=true" alt="best_deploy"/>
+  </p>
+  
+- ### Enabling Logging <a name="logs"></a>  
+
+
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
