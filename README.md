@@ -98,14 +98,30 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   In this image above we can notice that VotingEnsemble had the best performance but you can check the best model in details, the best will be at top of the list (Fig 5).
   
   <p align="center">
-        <i><b>Fig 4</b> -  AutoML Best Model </i>
+        <i><b>Fig 5</b> -  AutoML Best Model </i>
   </p>
   
   <p align="center">
         <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="best model name"/>
   </p>
   
+  We can look for some extra metrics about the `VotingEnsemble` model(Fig 6) and some explanation like feature importance(Fig 7).
+  <p align="center">
+        <i><b>Fig 6</b> -  VotingEnsemble Metrics </i>
+  </p>
   
+  <p align="center">
+        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_metrics_1.jpg?raw=true" alt="VotingEnsemble Metrics"/>
+  </p>
+  
+  
+  <p align="center">
+        <i><b>Fig 7</b> -  VotingEnsemble Feature Importance Explanation </i>
+  </p>
+  
+  <p align="center">
+        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_featureImp.jpg?raw=true" alt="VotingEnsemble Feature Importance Explanation"/>
+  </p>
   
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
