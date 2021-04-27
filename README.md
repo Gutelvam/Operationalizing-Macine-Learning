@@ -59,12 +59,12 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
    This step was need to create a dataset by uploading the csv data from `Bank Marketing dataset`.
    
    <p align="center">
-  <img src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.png?raw=true" alt="dataset creation"/>
+  <img width="600" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
 </p>
    *fig 1 - Creating a dataset by uploading a CSV file*
 
    <p align="center">
-  <img src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.png?raw=true" alt="dataset creation completed"/>
+  <img width="600" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
 </p>
    *fig 2 - Dataset Registered*
    
