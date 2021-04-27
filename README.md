@@ -7,7 +7,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 
 ## Index
-1. [Architectural Diagram](#Diagram)
+1. [Architectural Diagram](#diagram)
 2. [Key Steps](#keysteps)
     -  [Authentication](#auth)
     -  [AutoML Run](#automl)
@@ -22,7 +22,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 4. [Standout Suggestions](#sugestions)
 5. [Licensing and Acknowledgements](#Licensing)
 
-## Architectural Diagram
+## Architectural Diagram<a name="diagram"></a>
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 <p align="center">
@@ -51,11 +51,17 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 - ***Publish Pipeline with Python SDK:*** In this step it was need to run cells provided in notebook to Publish the pipeline.
 
 
-## Key Steps
+## Key Steps<a name="keysteps"></a>
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
-## Screen Recording
+## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
+## Standout Suggestions<a name="sugestions"></a>
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+## Licensing and Acknowledgements<a name="Licensing"></a>
+
+[MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt).
+
+Thanks for Udacity for give the oportunity to work with this amazing content.
