@@ -145,7 +145,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="1050" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py.jpg?raw=true" alt="set logs"/>
+        <img width="100%" height="550" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py.jpg?raw=true" alt="set logs"/>
   </p>
   
   <p align="center">
@@ -153,7 +153,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="1050" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py_exec.jpg?raw=true" alt="execution logs"/>
+        <img width="100%" height="550" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py_exec.jpg?raw=true" alt="execution logs"/>
   </p>
 
 ## Screen Recording<a name="screen"></a>
