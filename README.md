@@ -52,8 +52,9 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 
 ## Key Steps<a name="keysteps"></a>
-### Authentication <a name="auth"></a>
+- ### Authentication <a name="auth"></a>
    This Step is opitional since If you are using the lab Udacity provided to you, you can skip this step because we are not authorized to create a security principal. 
+- ### AutoML Run <a name="automl"></a>
 
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
