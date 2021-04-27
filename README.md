@@ -81,7 +81,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="800" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_show_completed.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="1050" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_show_completed.jpg?raw=true" alt="dataset creation completed"/>
   </p>
   
    We can now check the details of the run:
