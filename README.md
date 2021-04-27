@@ -57,22 +57,45 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
    This Step is opitional since If you are using the lab Udacity provided to you, you can skip this step because we are not authorized to create a security principal. 
 - ### AutoML Run <a name="automl"></a>
    This step was need to create a dataset by uploading the csv data from `Bank Marketing dataset`.
-   
-  <p align="center">
-        <img width="900" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
-  </p>
+  
   <p align="center">
         <i><b>Fig 1</b> - Creating a dataset by uploading a CSV file</i>
   </p>
-
+ 
   <p align="center">
-        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="900" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
   </p>
+  
   <p align="center">
         <i><b>Fig 2</b> -  Dataset Registered </i>
   </p>
+  
+  <p align="center">
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
+  </p>
+  
    
-   after registered the dataset we created an Automated ML model and then created a compute cluster for processing. Afeter everything is setting we must start run.
+   With registered dataset we can create an Automated ML experiment with a compute cluster for processing. After everything is setting we must start run the experiment and when it's completed you can check at experiment section. like the image below:
+   <p align="center">
+        <i><b>Fig 3</b> -  AutoML Experiment completed </i>
+  </p>
+  
+  <p align="center">
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_show_completed.jpg?raw=true" alt="dataset creation completed"/>
+  </p>
+  
+   We can now check the details of the run:
+   
+   <p align="center">
+        <i><b>Fig 3</b> -  AutoML Experiment Details </i>
+  </p>
+  
+  <p align="center">
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_completed.jpg?raw=true" alt="dataset creation completed"/>
+  </p>
+   
+- ### Deploy Best Model <a name="bestmodel"></a>   
+   
    
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
