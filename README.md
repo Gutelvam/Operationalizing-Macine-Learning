@@ -52,7 +52,8 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 
 ## Key Steps<a name="keysteps"></a>
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+### Authentication <a name="auth"></a>
+    This Step is opitional since If you are using the lab Udacity provided to you, you can skip this step because we are not authorized to create a security principal. 
 
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
