@@ -84,8 +84,9 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
         <img width="1050" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_show_completed.jpg?raw=true" alt="dataset creation completed"/>
   </p>
   
-   We can now check the details of the run:
    
+- ### Deploy Best Model <a name="bestmodel"></a>   
+   After run the experiment we can now check the details of the run and look for the best performance model:
    <p align="center">
         <i><b>Fig 4</b> -  AutoML Experiment Details </i>
   </p>
@@ -93,10 +94,19 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   <p align="center">
         <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_completed.jpg?raw=true" alt="dataset creation completed"/>
   </p>
-   
-- ### Deploy Best Model <a name="bestmodel"></a>   
-   
-   
+  
+  In this image above we can notice that VotingEnsemble had the best performance but you can check the best model in details, the best will be at top of the list (Fig 5).
+  
+  <p align="center">
+        <i><b>Fig 4</b> -  AutoML Best Model </i>
+  </p>
+  
+  <p align="center">
+        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="dataset creation completed"/>
+  </p>
+  
+  
+  
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
