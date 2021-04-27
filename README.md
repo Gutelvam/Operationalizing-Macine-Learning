@@ -7,6 +7,20 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 
 ## Index
+1. [Architectural Diagram](#Diagram)
+2. [Key Steps](#keysteps)
+    -  [Authentication](#auth)
+    -  [AutoML Run](#automl)
+    -  [Deploy Best Model](#bestmodel)
+    -  [Enabling Logging](#logs)
+    -  [Setup Swagger](#swagger)
+    -  [Consume Model Endpoint](#modelconsume)
+    -  [Create pipeline](#createpipe)
+    -  [Consume pipeline](#consumepipe)
+    -  [Publish pipeline](#publishepipe)
+3. [Screen Recording](#screen)
+4. [Standout Suggestions](#sugestions)
+5. [Licensing and Acknowledgements](#Licensing)
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
