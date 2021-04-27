@@ -56,7 +56,21 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 - ### Authentication <a name="auth"></a>
    This Step is opitional since If you are using the lab Udacity provided to you, you can skip this step because we are not authorized to create a security principal. 
 - ### AutoML Run <a name="automl"></a>
+   This step was need to create a dataset by uploading the csv data from `Bank Marketing dataset`.
+   
+   <p align="center">
+  <img src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.png?raw=true" alt="dataset creation"/>
+</p>
+   *fig 1 - Creating a dataset by uploading a CSV file*
 
+   <p align="center">
+  <img src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.png?raw=true" alt="dataset creation completed"/>
+</p>
+   *fig 2 - Dataset Registered*
+   
+   
+   after registered the dataset we created an Automated ML model and then created a compute cluster for processing. Afeter everything is setting we must start run.
+   
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
