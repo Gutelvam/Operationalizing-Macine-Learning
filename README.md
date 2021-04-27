@@ -59,17 +59,17 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
    This step was need to create a dataset by uploading the csv data from `Bank Marketing dataset`.
    
   <p align="center">
-        <img width="600" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
+        <img width="900" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
   </p>
   <p align="center">
-        * fig 1 - Creating a dataset by uploading a CSV file *
+        <b><i>fig 1 - Creating a dataset by uploading a CSV file<i><b>
   </p>
 
   <p align="center">
-        <img width="600" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="900" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
   </p>
   <p align="center">
-        * fig 2 -  Dataset Registered *
+        <b><i>fig 2 -  Dataset Registered <i><b>
   </p>
    
    after registered the dataset we created an Automated ML model and then created a compute cluster for processing. Afeter everything is setting we must start run.
