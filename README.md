@@ -163,7 +163,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="100%" height="550" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/insight_enabled.jpg?raw=true" alt="insight enabled"/>
+        <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/insight_enabled.jpg?raw=true" alt="insight enabled"/>
   </p>
     
 ## Screen Recording<a name="screen"></a>
