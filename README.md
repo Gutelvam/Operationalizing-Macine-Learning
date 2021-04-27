@@ -92,7 +92,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_completed.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/exp_completed.jpg?raw=true" alt="experiment  completed"/>
   </p>
   
   In this image above we can notice that VotingEnsemble had the best performance but you can check the best model in details, the best will be at top of the list (Fig 5).
@@ -102,7 +102,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="best model name"/>
   </p>
   
   
