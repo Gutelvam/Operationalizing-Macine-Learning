@@ -62,14 +62,14 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
         <img width="900" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_create.jpg?raw=true" alt="dataset creation"/>
   </p>
   <p align="center">
-        <b><i>fig 1 - Creating a dataset by uploading a CSV file<i><b>
+        <i><b>Fig 1<b> - Creating a dataset by uploading a CSV file<i>
   </p>
 
   <p align="center">
-        <img width="900" height="300" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
   </p>
   <p align="center">
-        <b><i>fig 2 -  Dataset Registered <i><b>
+        <i><b>Fig 2<b> -  Dataset Registered <i>
   </p>
    
    after registered the dataset we created an Automated ML model and then created a compute cluster for processing. Afeter everything is setting we must start run.
