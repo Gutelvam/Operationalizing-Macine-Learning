@@ -25,7 +25,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 - ***Consume Model Endpoint:*** To consume the model is a good practice to check in deployed model section for consume tab, in this case you can get URI and Secret Key to fill the file `endpoint.py` and then run in terminal `python endpoint.py` 
 
-***Obs.:In this section was made and extra step using Apache Benchmark*** 
+    ***Obs.:In this section was made and extra step using Apache Benchmark*** 
 
 - ***Create pipeline with Python SDK:*** With the notebook provided in the starter files it was need to make some modifications to create the pipeline with SDK (i.e.: including the Experiment created previusly).
 
