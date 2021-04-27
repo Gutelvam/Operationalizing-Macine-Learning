@@ -130,7 +130,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   The model was deployed with "Azure Container Instances" (ACI) and "Authentication" enabled, so cheking the endpoints we can see the model deployed(Fig 8). 
   
   <p align="center">
-        <i><b>Fig 8</b> -  VotingEnsemble Feature Importance Explanation </i>
+        <i><b>Fig 8</b> -  Best model Deploy </i>
   </p>
   
   <p align="center">
@@ -138,7 +138,23 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
 - ### Enabling Logging <a name="logs"></a>  
-
+    This phase was necessary to Enable Application Insights  changing the name of model in the file `logs.py` (fig 10) and runing it in terminal (Fig 10).
+    
+  <p align="center">
+        <i><b>Fig 9</b> -  logs.py </i>
+  </p>
+  
+  <p align="center">
+        <img width="1050" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py.jpg?raw=true" alt="set logs"/>
+  </p>
+  
+  <p align="center">
+        <i><b>Fig 10</b> -  logs.py Execution </i>
+  </p>
+  
+  <p align="center">
+        <img width="1050" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py_exec.jpg?raw=true" alt="execution logs"/>
+  </p>
 
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
