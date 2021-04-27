@@ -66,7 +66,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
 
   <p align="center">
-        <img width="900" height="200" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
+        <img width="900" height="300" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/dataset_created.jpg?raw=true" alt="dataset creation completed"/>
   </p>
   <p align="center">
         <b><i>fig 2 -  Dataset Registered <i><b>
