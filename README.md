@@ -87,7 +87,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
    We can now check the details of the run:
    
    <p align="center">
-        <i><b>Fig 3</b> -  AutoML Experiment Details </i>
+        <i><b>Fig 4</b> -  AutoML Experiment Details </i>
   </p>
   
   <p align="center">
