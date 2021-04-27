@@ -156,6 +156,16 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
         <img width="100%" height="550" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/logs_py_exec.jpg?raw=true" alt="execution logs"/>
   </p>
 
+    After execution of this script we can follow to endpoit again to check out the status of Application Insights (Fig 11).
+    
+  <p align="center">
+        <i><b>Fig 10</b> -  Application Insights Enabled </i>
+  </p>
+  
+  <p align="center">
+        <img width="100%" height="550" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/insight_enabled.jpg?raw=true" alt="insight enabled"/>
+  </p>
+    
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
