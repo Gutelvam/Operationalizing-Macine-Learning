@@ -102,7 +102,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="900" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="best model name"/>
+        <img width="1200" height="250" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_name.jpg?raw=true" alt="best model name"/>
   </p>
   
   We can look for some extra metrics about the `VotingEnsemble` model(Fig 6) and some explanation like feature importance(Fig 7).
@@ -111,7 +111,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
   <p align="center">
-        <img width="1050" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_metrics_1.jpg?raw=true" alt="VotingEnsemble Metrics"/>
+        <img width="1200" height="400" src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_metrics_1.jpg?raw=true" alt="VotingEnsemble Metrics"/>
   </p>
   
   
