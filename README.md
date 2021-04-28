@@ -138,7 +138,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   </p>
   
 - ### Enabling Logging <a name="logs"></a>  
-    This phase was necessary to Enable Application Insights  changing the name of model in the file `logs.py` (fig 10) and runing it in terminal (Fig 10).
+    This phase was necessary to Enable Application Insights  changing the name of model in the file `logs.py` (fig 9) and runing it in terminal (Fig 10).
     
   <p align="center">
         <i><b>Fig 9</b> -  logs.py </i>
@@ -159,13 +159,38 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
     After execution of this script we can follow to endpoit again to check out the status of Application Insights (Fig 11).
     
   <p align="center">
-        <i><b>Fig 10</b> -  Application Insights Enabled </i>
+        <i><b>Fig 11</b> -  Application Insights Enabled </i>
   </p>
   
   <p align="center">
         <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/insight_enabled.jpg?raw=true" alt="insight enabled"/>
   </p>
     
+
+- ### Setup Swagger <a name="swagger"></a>  
+
+ First of all to make swagger documentation we needed to copy and create a swagger.json file from `swagger URI`  provided by `Azure` when looking at endpoint section (the `swagger.json` created must be in the same folder than `swagger.sh` and `serve.py`). To setup swagger it necessary to change the port to 9000 in the `swagger.sh` file because `80` was already taken.  So using bash we can run the .sh file `bash swagger.sh` it starts swagger, after that with a new terminal we run `python serve.py` to simulate the API documentation.
+ 
+There are two type of HTTP therms, get (Fig 12) and post(Fig 13) that we can interact with.
+
+<p align="center">
+        <i><b>Fig 12</b> -  Swagger Get interaction </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/swagger_get_interaction.jpg?raw=true" alt="swagger_get_interaction"/>
+</p>
+
+<p align="center">
+        <i><b>Fig 13</b> -  Swagger Post interaction </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/swagger_post_interaction.jpg?raw=true" alt="swagger_post_interaction"/>
+</p>
+    
+
+ 
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
