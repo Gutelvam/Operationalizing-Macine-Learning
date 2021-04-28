@@ -195,7 +195,7 @@ Finally, now we can interact with the model and test it by feeding with data. It
 
 
 <p align="center">
-        <i><b>Fig 14</b> - Endpoint.py </i>
+        <i><b>Fig 14</b> - endpoint.py </i>
 </p>
 
 <p align="center">
@@ -203,11 +203,11 @@ Finally, now we can interact with the model and test it by feeding with data. It
 </p>
 
 <p align="center">
-        <i><b>Fig 15</b> - Execution Endpoint.py </i>
+        <i><b>Fig 15</b> - endpoint.py Execution </i>
 </p>
 
 <p align="center">
-    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/s.jpg?raw=true" alt="endpoint"/>
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/execution_endpy.jpg?raw=true" alt="endpoint execution"/>
 </p>
 
 
