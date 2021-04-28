@@ -225,7 +225,33 @@ First you need to make sure that you have Apache Benchmak command-line tool inst
 
 
 - ###  Create pipeline <a name="createpipe"></a>  
+In this step was necessary to use the Jupyter Notebook provided for this project named `aml-pipelines-with-automated-machine-learning-step`, therefore it was necessary to use Python SDK (Fig 17).
 
+<p align="center">
+        <i><b>Fig 17</b> - Pipiline Creation </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_run.jpg?raw=true" alt="Pipiline Creation"/>
+</p>
+
+<p align="center">
+        <i><b>Fig 18</b> - Pipiline schedule </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_schedule.jpg?raw=true" alt="Pipiline schedule"/>
+</p>
+
+<p align="center">
+        <i><b>Fig 19</b> - Pipiline Completed </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_completed.jpg?raw=true" alt="Pipiline Completed"/>
+</p>
+
+I created, consumed and published the best model for the bank marketing dataset using AutoML with Python SDK.
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
