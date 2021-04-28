@@ -251,7 +251,17 @@ In this step was necessary to use the Jupyter Notebook provided for this project
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_completed.jpg?raw=true" alt="Pipiline Completed"/>
 </p>
 
-I created, consumed and published the best model for the bank marketing dataset using AutoML with Python SDK.
+To be able to consume the model via Python SDK we first saved the best Pipelile as Pickle Format the steps in the pipeline can be noticed below:
+
+<p align="center">
+        <i><b>Fig20</b> - Pipiline Steps </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_steps.jpg?raw=true" alt="pipeline_steps"/>
+</p>
+
+
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
