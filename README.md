@@ -262,11 +262,23 @@ To be able to consume the model via Python SDK we first saved the best Pipelile 
 </p>
 
 <p align="center">
+        <i><b>Fig 21</b> - Create the REST endpoint</i>
+</p>
+
+<p align="center">
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_endpoint.jpg?raw=true" alt="pipeline_endpoint"/>
 </p>
 
 <p align="center">
+        <i><b>Fig 22</b> - Test the REST endpoint</i>
+</p>
+
+<p align="center">
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/pipeline_endpoint_test.jpg?raw=true" alt="pipeline_endpoint_test"/>
+</p>
+
+<p align="center">
+        <i><b>Fig 23</b> - verify experiment run of pipeline REST endpoint</i>
 </p>
 
 <p align="center">
