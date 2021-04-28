@@ -222,7 +222,7 @@ First you need to make sure that you have Apache Benchmak command-line tool inst
 </p>
 
 
-- ###  Create pipeline <a name="createpipe"></a>  
+- ###  Create, Consume and Publish pipeline <a name="createpipe"></a>  
 In this step was necessary to use the Jupyter Notebook provided for this project named `aml-pipelines-with-automated-machine-learning-step`, therefore it was necessary to use Python SDK (Fig 17).
 
 <p align="center">
@@ -252,7 +252,7 @@ In this step was necessary to use the Jupyter Notebook provided for this project
 To be able to consume the model via Python SDK we first saved the best Pipelile as `Pickle` Format the steps in the pipeline can be noticed below:
 
 <p align="center">
-        <i><b>Fig 20</b> - Pipiline Steps and Create the REST endpoint</i>
+        <i><b>Fig 20</b> - Pipiline Steps </i>
 </p>
 
 <p align="center">
@@ -260,7 +260,7 @@ To be able to consume the model via Python SDK we first saved the best Pipelile 
 </p>
 
 <p align="center">
-        <i><b>Fig 21</b> - Create the REST endpoint</i>
+        <i><b>Fig 21</b> - Publish pipeline and Create the REST endpoint</i>
 </p>
 
 <p align="center">
