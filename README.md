@@ -300,9 +300,9 @@ In this project we noticed that we reached a realy good accuracy and AUC, but if
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_confusion_matrix.jpg?raw=true" alt="Confusion Matrix"/>
 </p>
 
-Other Aproach is to reduce dimensionality based on feature importance and look if model perform better.
+Other Aproach is to reduce dimensionality based on feature importance and look if model perform better or get a better interpretation.
 
-> "Feature selection helps to avoid both of these problems by reducing the number of features in the model, trying to optimize the model performance. In doing so, feature selection also provides an extra benefit: Model interpretation. With fewer features, the output model becomes simpler and easier to interpret, and it becomes more likely for a human to trust future predictions made by the model." by  ![Gabriel Azevedo](https://towardsdatascience.com/feature-selection-techniques-for-classification-and-python-tips-for-their-application-10c0ddd7918b#:~:text=Feature%20selection%20helps%20to%20avoid,an%20extra%20benefit%3A%20Model%20interpretation)
+> "Feature selection helps to avoid both of these problems by reducing the number of features in the model, trying to optimize the model performance. In doing so, feature selection also provides an extra benefit: Model interpretation. With fewer features, the output model becomes simpler and easier to interpret, and it becomes more likely for a human to trust future predictions made by the model." by [Gabriel Azevedo](https://towardsdatascience.com/feature-selection-techniques-for-classification-and-python-tips-for-their-application-10c0ddd7918b#:~:text=Feature%20selection%20helps%20to%20avoid,an%20extra%20benefit%3A%20Model%20interpretation)
 
 
 
