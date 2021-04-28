@@ -127,7 +127,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
   
   ***Deploying the model***
   
-  The model was deployed with "Azure Container Instances" (ACI) and "Authentication" enabled, so cheking the endpoints we can see the model deployed(Fig 8). 
+  The model was deployed with "Azure Container Instances" (ACI) and "Authentication" enabled, so cheking the endpoints section we can see the model deployed(Fig 8). 
   
   <p align="center">
         <i><b>Fig 8</b> -  Best model Deploy </i>
@@ -169,7 +169,7 @@ The data Dictionary can be found [here](https://archive.ics.uci.edu/ml/datasets/
 
 - ### Setup Swagger <a name="swagger"></a>  
 
- First of all to make swagger documentation we needed to copy and create a swagger.json file from `swagger URI`  provided by `Azure` when looking at endpoint section (the `swagger.json` created must be in the same folder than `swagger.sh` and `serve.py`). To setup swagger it necessary to change the port to 9000 in the `swagger.sh` file because `80` was already taken.  So using bash we can run the .sh file `bash swagger.sh` it starts swagger, after that with a new terminal we run `python serve.py` to simulate the API documentation.
+ First of all to make swagger documentation we needed to copy and create a swagger.json file from `swagger URI`  provided by `Azure` when looking at endpoint section (the `swagger.json` created must be in the same folder than `swagger.sh` and `serve.py`). To setup swagger it was necessary to change the port to 9000 in the `swagger.sh` file because `80` was already taken.  So using bash we can run the .sh file `bash swagger.sh` it starts swagger, after that with a new terminal we run `python serve.py` to simulate the endpoint calls with documentation.
  
 There are two type of HTTP therms, get (Fig 12) and post(Fig 13) that we can interact with.
 
@@ -191,7 +191,7 @@ There are two type of HTTP therms, get (Fig 12) and post(Fig 13) that we can int
     
 - ###  Consume Model Endpoint <a name="modelconsume"></a>  
 
-Finally, now we can interact with the model and test it by feeding with data. It's possible to do this by providing the scoring_uri and the Primarykey to the `endpoint.py` script execute it (Fig 14, 15).
+Finally, now we can interact with the model and test it by feeding with data. It's possible to do this by providing the scoring_uri and the Primarykey to the `endpoint.py` script and then execute it (Fig 14, 15).
 
 
 <p align="center">
@@ -212,7 +212,7 @@ Finally, now we can interact with the model and test it by feeding with data. It
 
 ***Apache Benchmark***
 
-First you need to make sure that you have set Apache Benchmak command-line tool installed and available in your path, in the `endpoint.py` replace the key and URI again and run it, after that u may see a file called data.json in your folder. The next step is to run the `benchmark.sh` file with `bash benchmark.sh` and u may see a similar result but with more details (Fig 16).
+First you need to make sure that you have Apache Benchmak command-line tool installed and available in your path, in the `endpoint.py` replace the key and URI again and run it, after that u may see a file called data.json in your folder. The next step is to run the `benchmark.sh` file with `bash benchmark.sh` and u may see a similar result but with more details (Fig 16).
 
 
 <p align="center">
