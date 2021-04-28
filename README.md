@@ -189,8 +189,30 @@ There are two type of HTTP therms, get (Fig 12) and post(Fig 13) that we can int
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/swagger_post_interaction.jpg?raw=true" alt="swagger_post_interaction"/>
 </p>
     
+- ###  Consume Model Endpoint <a name="enpoint"></a>  
 
- 
+Finally, now we can interact with the model and test it by feeding with data. It's possible to do this by providing the scoring_uri and the Primarykey to the `endpoint.py` script execute it (Fig 14, 15).
+
+
+<p align="center">
+        <i><b>Fig 14</b> - Endpoint.py </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/endpoint.jpg?raw=true" alt="endpoint"/>
+</p>
+
+<p align="center">
+        <i><b>Fig 15</b> - Execution Endpoint.py </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/s.jpg?raw=true" alt="endpoint"/>
+</p>
+
+
+
+
 ## Screen Recording<a name="screen"></a>
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
