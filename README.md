@@ -290,7 +290,21 @@ To be able to consume the model via Python SDK we first saved the best Pipelile 
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 ## Standout Suggestions<a name="sugestions"></a>
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+In this project we noticed that we reached a realy good accuracy and AUC, but if u look at some details you can se that the dataset is highly unbalanced a good approach to reduce the bias of this would be utilize some technices like random-sampling, under-sampling or over-sampling. Below you can see the confusion matrix and it's possible to validade the unbalanciment.
+
+<p align="center">
+        <i><b>Fig 24 </b> - Confusion Matrix </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/best_model_confusion_matrix.jpg?raw=true" alt="Confusion Matrix"/>
+</p>
+
+Other Aproach is to reduce dimensionality based on feature importance and look if model perform better.
+
+> "Feature selection helps to avoid both of these problems by reducing the number of features in the model, trying to optimize the model performance. In doing so, feature selection also provides an extra benefit: Model interpretation. With fewer features, the output model becomes simpler and easier to interpret, and it becomes more likely for a human to trust future predictions made by the model." by  ![Gabriel Azevedo](https://towardsdatascience.com/feature-selection-techniques-for-classification-and-python-tips-for-their-application-10c0ddd7918b#:~:text=Feature%20selection%20helps%20to%20avoid,an%20extra%20benefit%3A%20Model%20interpretation)
+
+
 
 ## Licensing and Acknowledgements<a name="Licensing"></a>
 
