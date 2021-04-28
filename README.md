@@ -210,7 +210,18 @@ Finally, now we can interact with the model and test it by feeding with data. It
     <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/execution_endpy.jpg?raw=true" alt="endpoint execution"/>
 </p>
 
+***Apache Benchmark***
 
+First you need to make sure that you have set Apache Benchmak command-line tool installed and available in your path, in the `endpoint.py` replace the key and URI again and run it, after that u may see a file called data.json in your folder. The next step is to run the `benchmark.sh` file with `bash benchmark.sh` and u may see a similar result but with more details (Fig 16).
+
+
+<p align="center">
+        <i><b>Fig 16</b> - Apache Benchmark </i>
+</p>
+
+<p align="center">
+    <img  src="https://github.com/Gutelvam/Operationalizing-Macine-Learning/blob/readme/img/benchmarketing.jpg?raw=true" alt="Apache Benchmark"/>
+</p>
 
 
 ## Screen Recording<a name="screen"></a>
