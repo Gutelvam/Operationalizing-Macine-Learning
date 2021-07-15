@@ -288,7 +288,12 @@ To be able to consume the model via Python SDK we first saved the best Pipelile 
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 ## Standout Suggestions<a name="sugestions"></a>
-In this project we noticed that we reached a realy good accuracy and AUC, but if youu look at some details you can se that the dataset is highly unbalanced only around 9.4% of data are labeled as `Yes`, therefore a good approach to reduce the bias of this dataset would be utilize some techniques like random-sampling, under-sampling or over-sampling. Below you can see the confusion matrix and it's possible to validade the unbalanciment.
+In this project, a really good accuracy and AUC can be noticed, but some details may seem unbalance, because only 9.4% of the data are labeled as `Yes`. 
+
+Therefore, a good approach to reduce the dataset's bias, would be employing some remarkable sampling techniques such as random-sampling, under-sampling, or over-sampling.
+
+
+Another possible approach is reducing dimensionality based on feature importance and spot on any performance or interpretation improvement.
 
 <p align="center">
         <i><b>Fig 24 </b> - Confusion Matrix </i>
